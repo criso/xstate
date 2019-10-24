@@ -23,7 +23,9 @@
   - See [the Vue recipes](../recipes/vue.md) for more information on integrating XState with Vue
 - [Getting Started with XState](https://www.vietnguyen.site/getting-started-with-xstate/) by [Viet Nguyen](https://www.vietnguyen.site)
   - An example of using XState with NextJS
-
+- [Pure UI using Xstate and ReactJS](https://dev.to/cris_o/pure-ui-using-xstate-and-reactjs-5em7)
+  - build a simple chatbot using XState and ReactJS
+  
 ## Videos
 
 - [▶ Introduction to XState](https://www.youtube.com/watch?v=73Ch_EL4YVc) by Jon Bellah
